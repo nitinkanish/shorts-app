@@ -77,7 +77,7 @@ Replace the API Key field with your own key, for key visit [newsapi.org](https:/
 ```
 MIT License
 
-Copyright (c) 2020 Sanjay Soni
+Copyright (c) 2023 Nitin Kanish
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
